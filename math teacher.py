@@ -1,25 +1,8 @@
 import random
 
-def add(x, y):
-    return x + y
-
-
-def sub(x, y):
-    return x-y
-
-
-def mul(x, y):
-    return x*y
-
-
-def div(x, y):
-    return x/y
-
-
 operations = ['+', '-', '*', '/']
 
 while True:
-
     numbers = [random.randint(0, 9), random.randint(0, 9)]
     operator = operations[random.randint(0,3)]
     if operator != '/' and numbers[1] != 0:
