@@ -1,2 +1,3 @@
-#Calculate it
-##This program will help you learn how to calculate faster in your head without strugling 
+#Math Teacher
+##This program will help you learn to solve math problems
+##in your head faster
